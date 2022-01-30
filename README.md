@@ -27,14 +27,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandyUndefined&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/SandyUndefined/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SandyUndefined&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Sandeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=SandyUndefined&theme=monokai)](https://github.com/SandyUndefined/github-readme-activity-graph)
+
 </div>
-
-
-
-
-<h3>Contribution Graph</h3>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SandyUndefined&theme=chartreuse-dark&no-frame=true" /></p>
 
 ---
 
