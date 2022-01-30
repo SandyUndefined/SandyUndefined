@@ -21,11 +21,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ## &#x1f4c8; My GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SandyUndefined&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyUndefined&theme=algolia"/>
-</p>
+
+[![SandyUndefined's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandyUndefined)](https://github.com/SandyUndefined&count_private=true&show_icons=true&theme=tokyonight/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandyUndefined)](https://github.com/SandyUndefined&langs_count=10&layout=compact&theme=tokyonight/github-readme-stats)
+
 
 <h3>Contribution Graph</h3>
 <p align="left">
