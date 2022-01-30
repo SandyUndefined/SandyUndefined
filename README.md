@@ -1,6 +1,7 @@
 <h1 align="center">Hey there, I'm Sandeep<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center"><i>Like many young people, I believe I have potential to make a positive impact in the world.</i></h3>
+<h3 align="center"><i>In order to be irreplaceable, one must always be different.</i></h3>
 
+---
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## **Tech Stack**<br>
