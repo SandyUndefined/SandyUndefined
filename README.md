@@ -38,7 +38,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/sandeep-kumar-sharma-b44a92129/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Sharma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="blank" href="https://www.linkedin.com/in/sandeep-kumar-sharma-b44a92129/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Sharma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:08sandysk@gmail.com"><img src="https://img.shields.io/badge/08sandysk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank" href="https://instagram.com/s.a.n.d.y__undefined_"><img src="https://img.shields.io/badge/s.a.n.d.y__undefined_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a target="blank" href="https://instagram.com/s.a.n.d.y__undefined_"><img src="https://img.shields.io/badge/s.a.n.d.y__undefined_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
