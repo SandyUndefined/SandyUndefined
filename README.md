@@ -20,8 +20,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-### &#x1f4c8; My GitHub Stats
-<p align="left">
+## &#x1f4c8; My GitHub Stats
+<p align="center">
 <a href="https://github.com/SandyUndefined">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SandyUndefined&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
