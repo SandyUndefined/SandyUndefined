@@ -22,12 +22,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 <p align="center">
-<a href="https://github.com/SandyUndefined">
-
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SandyUndefined&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyUndefined&theme=algolia"/>
-</a>
 </p>
 
 <h3>Contribution Graph</h3>
