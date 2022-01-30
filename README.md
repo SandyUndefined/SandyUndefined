@@ -20,39 +20,25 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-## &#x1f4c8; My GitHub Stats🎯
- 
-<h3 align="left">Profile Views: 🧐</h3>
-  
-![Profile views](https://gpvc.arturio.dev/SandyUndefined)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandyUndefined&theme=chartreuse-dark)](https://github.com/SandyUndefined/github-readme-stats)
-  
-# Contribution Graph
+### &#x1f4c8; My GitHub Stats
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SandyUndefined&theme=chartreuse-dark&no-frame=true" /></p>
-
-
-  
-# Trophies
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=SandyUndefined&column=7&theme=gruvbox&no-frame=true"/>
-  
-
-<p align="center">
 <a href="https://github.com/SandyUndefined">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SandyUndefined&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SandyUndefined&layout=compact&theme=algolia"/>
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SandyUndefined&theme=algolia"/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h3>Contribution Graph</h3>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SandyUndefined&theme=chartreuse-dark&no-frame=true" /></p>
 
+---
+
+### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sandeep-kumar-sharma-b44a92129/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Sharma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:08sandysk@gmail.com"><img src="https://img.shields.io/badge/08sandysk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/s.a.n.d.y__undefined_"><img src="https://img.shields.io/badge/s.a.n.d.y__undefined_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
