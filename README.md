@@ -72,21 +72,14 @@
 ### **🔥 Contribution Streak**
 <img src="https://streak-stats.demolab.com/?user=SandyUndefined&theme=tokyonight&hide_border=false" />
 
-### **📊 Detailed GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=SandyUndefined&show_icons=true&count_private=true&theme=tokyonight&custom_title=Detailed%20GitHub%20Stats&include_all_commits=true&line_height=27" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SandyUndefined&theme=tokyonight&layout=compact" />
-
 ### **📅 Contribution Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandyUndefined&theme=tokyo-night&hide_border=true&area=true" />
 
-### **💻 Weekly Coding Activity**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SandyUndefined&repo=SandyUndefined&theme=tokyonight" />
-
 ### **🏆 GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=SandyUndefined&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=SandyUndefined&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 
-### **📈 Commit Activity**
-<img src="https://github-readme-stats.vercel.app/api?username=SandyUndefined&show_icons=true&count_private=true&theme=tokyonight&show_owner=true&include_all_commits=true&custom_title=Commit%20Activity%20Overview" />
+### **📊 Coding Activity**
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SandyUndefined&theme=tokyonight&layout=compact" />
 
 </div>
 
